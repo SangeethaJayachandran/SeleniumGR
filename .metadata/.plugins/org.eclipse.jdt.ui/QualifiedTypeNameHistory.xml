@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.dtype.CompanyDetails"/>
+    <fullyQualifiedTypeName name="org.emp.Employee"/>
+    <fullyQualifiedTypeName name="org.company.Company"/>
+    <fullyQualifiedTypeName name="org.project.Project"/>
+    <fullyQualifiedTypeName name="org.phone.InternalStorage"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="org.twowheeler.TwoWheller"/>
+    <fullyQualifiedTypeName name="org.threewheeler.ThreeWheeler"/>
+    <fullyQualifiedTypeName name="org.fourwheeler.FourWheeler"/>
+    <fullyQualifiedTypeName name="org.english.English"/>
+    <fullyQualifiedTypeName name="org.tamil.Tamil"/>
+    <fullyQualifiedTypeName name="org.telgu.Telgu"/>
+    <fullyQualifiedTypeName name="org.india.India"/>
+    <fullyQualifiedTypeName name="org.andrapradesh.AndhraPradesh"/>
+    <fullyQualifiedTypeName name="org.kerala.kerala"/>
+    <fullyQualifiedTypeName name="org.tamilnadu.TamiladuN"/>
+    <fullyQualifiedTypeName name="org.college.Student"/>
+    <fullyQualifiedTypeName name="org.computer.Desktop"/>
+    <fullyQualifiedTypeName name="org.computer.Computer"/>
+    <fullyQualifiedTypeName name="org.lang.LanguageInfo"/>
+    <fullyQualifiedTypeName name="org.lang.StateDetails"/>
+    <fullyQualifiedTypeName name="org.bank.AxisBank"/>
+    <fullyQualifiedTypeName name="org.client.Client"/>
+    <fullyQualifiedTypeName name="org.abs.EmpSalary"/>
+    <fullyQualifiedTypeName name="org.bank.Bank"/>
+    <fullyQualifiedTypeName name="org.abs.EmpDetails"/>
+    <fullyQualifiedTypeName name="org.student.StudentDetails"/>
+    <fullyQualifiedTypeName name="org.student.District"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="java.awt.Robot"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+    <fullyQualifiedTypeName name="org.first.TestProject"/>
+</qualifiedTypeNameHistroy>
